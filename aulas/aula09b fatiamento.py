@@ -11,6 +11,9 @@ print(mostrar)  # -> mostrara "Víde"
 mostrar = frase[9:21:2]  # mostrara as letras do 9 ao 21 pulando de 2 em 2
 print(mostrar)  # -> mostrara "VdoPto"
 
+mostrar = frase[9:21]  # mostrara as letras do 9 ao 21 pulando de 2 em 2
+print(mostrar)  # -> mostrara "Python"
+
 mostrar = frase[15:]  # mostrara as letras do 15 até o final da palavra
 print(mostrar)  # -> mostrara "Python"
 
