@@ -1,4 +1,5 @@
-# Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
+# Escreva um programa que leia um valor em metros
+# e o exiba convertido em centímetros e milímetros.
 
 # 1 metros = 100 centímetros
 # 1 metros = 1000 milímetros
