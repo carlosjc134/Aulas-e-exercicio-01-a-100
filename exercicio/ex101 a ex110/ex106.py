@@ -1,4 +1,8 @@
-# Faça um programa que tenha uma função chamada arredondar(), que vai receber um valor como parâmetro e, se o vlaor dela for maior ou igual a 5, arredonde ele para cima, se não, arredonde ele para baixo. Obs: Pesquise pela função round().
+# Faça um programa que tenha uma função chamada arredondar(),
+# que vai receber um valor como parâmetro e,
+# se o vlaor dela for maior ou igual a 5,
+# arredonde ele para cima, se não, arredonde ele para baixo.
+# Obs: Pesquise pela função round().
 # OBS: use cores.
 
 from time import sleep
