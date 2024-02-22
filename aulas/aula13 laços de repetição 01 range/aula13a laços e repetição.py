@@ -1,4 +1,7 @@
-for c in range(1, 6):  # mostrara "oi" 6 vezes, e no final "fim"
+for rodada in [1, 2, 3, 4, 5]:
+    print(rodada)
+
+for c in range(1, 6):  # mostrara "oi" 5 vezes, e no final "fim"
     print("oi")
 print("fim")
 
